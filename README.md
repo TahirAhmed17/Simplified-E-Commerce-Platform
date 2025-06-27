@@ -2,7 +2,10 @@
 
 A simple and functional e-commerce shopping cart built using HTML, CSS, and vanilla JavaScript. This project simulates product display, add-to-cart actions, and cart management in a dynamic frontend interface.
 
----
+– Built a scalable platform with responsive UI (HTML/CSS/JS), RESTful APIs (Node.js), and PostgreSQL database for secure payments,
+AI recommendations, and inventory tracking.
+
+– Designed ACID-compliant PostgreSQL schemas and real-time inventory workflows to ensure seamless scalability
 
 ## 🚀 Features
 
